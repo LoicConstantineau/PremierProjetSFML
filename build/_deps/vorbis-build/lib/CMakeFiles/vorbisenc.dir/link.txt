@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../thirdParty/SFML/lib/libvorbisenc.a CMakeFiles/vorbisenc.dir/vorbisenc.c.o
+/usr/bin/ranlib ../../../thirdParty/SFML/lib/libvorbisenc.a

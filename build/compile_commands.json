@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/sheenbidi-build",
+  "command": "/usr/bin/clang -DSB_CONFIG_UNITY -I/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/sheenbidi-src/Headers -I/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/sheenbidi-src/Source -w -o CMakeFiles/SheenBidi.dir/Source/SheenBidi.c.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/sheenbidi-src/Source/SheenBidi.c",
+  "file": "/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/sheenbidi-src/Source/SheenBidi.c",
+  "output": "_deps/sheenbidi-build/CMakeFiles/SheenBidi.dir/Source/SheenBidi.c.o"
+}
+]
