@@ -1,24 +1,10 @@
-#include <iostream>
-#include <myHeader.h>
-#include <fstream>
+#include <cmath>
 
-#include <headers/header.h>
 
 int main()
 {
-	
-	print();
-
-
-	std::ifstream file(RESOURCES_PATH "file.txt");
-	
-	//read the file
-	std::string str((std::istreambuf_iterator<char>(file)),
-		std::istreambuf_iterator<char>());
-	std::cout << str;
-
-
-	std::cin.get();
+	sf::RenderWindow window(sf::VideoMode({largeurFenetre, hauteurFenetre}), "Cercle");
+ 	window.setFramerateLimit(60);
 	return 0;
 }
 

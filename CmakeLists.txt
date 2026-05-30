@@ -5,6 +5,7 @@ set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Release>:Release>")
 
 add_subdirectory("thirdParty/profilerLib")
 add_subdirectory("thirdParty/safeSave")
+add_subdirectory("thirdParty/SFML")
 
 
 project(main1)
@@ -21,6 +22,11 @@ target_compile_definitions("${CMAKE_PROJECT_NAME}" PUBLIC RESOURCES_PATH="${CMAK
 
 
 target_include_directories(main1 PUBLIC "${CMAKE_CURRENT_SOURCE_DIR}/include/")
-target_link_libraries(main1 PRIVATE profilerLib safeSave)
-
-
+target_link_libraries(main1 
+    PRIVATE 
+    profilerLib 
+    safeSave
+    sfml-graphics
+    sfml-window
+    sfml-system
+)
