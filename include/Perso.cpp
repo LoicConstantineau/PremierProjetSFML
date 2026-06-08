@@ -13,6 +13,8 @@ jeu::Objet creerPerso(){
 
     perso.ajouterTriangles(tete);
 
+    perso.asgVitesseDeplacement(400);
+
     return perso;
 } // creerPerso
 	

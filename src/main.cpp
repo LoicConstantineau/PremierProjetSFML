@@ -11,10 +11,10 @@ int main()
 	sf::RenderWindow window(sf::VideoMode({largeurFenetre, hauteurFenetre}), "Cercle");
  	window.setFramerateLimit(60);
 
-	sf::Vector2f originPerso = {300, 300};
-	float vitesseDeplacement = 10;
+	sf::Vector2f originPerso = {300, 600};
 
 	jeu::Objet perso = creerPerso();
+	perso.setPosition(originPerso);
 
 
 	while (window.isOpen()){
@@ -25,19 +25,18 @@ int main()
       		}
 		}
 		if (sf::Keyboard::isKeyPressed(sf::Keyboard::Key::D)){
-			perso.move({vitesseDeplacement, 0});
+			perso.courirDroite();
 		}
 		if (sf::Keyboard::isKeyPressed(sf::Keyboard::Key::A)){
-			perso.move({-vitesseDeplacement, 0});
+			perso.courirGauche();
 		}
 		if (sf::Keyboard::isKeyPressed(sf::Keyboard::Key::W)){
-			perso.move({0, -vitesseDeplacement});
-		}
-		if (sf::Keyboard::isKeyPressed(sf::Keyboard::Key::S)){
-			perso.move({0, vitesseDeplacement});
+			perso.sauter();
 		}
 
 		window.clear();
+		perso.update();
+		perso.move({perso.getVitesseX() * 1/60, perso.getVitesseY() * 1/60});
 		window.draw(perso);
 		window.display();
 	}
