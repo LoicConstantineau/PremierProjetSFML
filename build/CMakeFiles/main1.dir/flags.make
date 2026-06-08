@@ -6,5 +6,5 @@ CXX_DEFINES = -DRESOURCES_PATH=\"/Users/loicconstantineau/Desktop/VSCode/C++/Pre
 
 CXX_INCLUDES = -I/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/include -I/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/include
 
-CXX_FLAGS = -std=gnu++17
+CXX_FLAGS = -g -std=gnu++17
 

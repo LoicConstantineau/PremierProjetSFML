@@ -6,5 +6,5 @@ CXX_DEFINES = -DHAVE_ATEXIT -DHAVE_FREETYPE=1 -DHAVE_GETPAGESIZE -DHAVE_ISATTY -
 
 CXX_INCLUDES = -I/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/harfbuzz-src/src -I/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/harfbuzz-build/src -isystem /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/freetype-build/include -isystem /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/freetype-src/include
 
-CXX_FLAGS =  -fno-rtti -fno-exceptions -fno-threadsafe-statics -std=c++11 -std=gnu++11 -fvisibility-inlines-hidden -w
+CXX_FLAGS =  -fno-rtti -fno-exceptions -fno-threadsafe-statics -std=c++11 -g -std=gnu++11 -fvisibility-inlines-hidden -w
 

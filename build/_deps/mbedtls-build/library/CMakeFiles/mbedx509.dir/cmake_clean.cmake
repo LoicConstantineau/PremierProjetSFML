@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../thirdParty/SFML/lib/libmbedx509.a"
-  "../../../thirdParty/SFML/lib/libmbedx509.pdb"
+  "../../../thirdParty/SFML/lib/libmbedx509d.a"
+  "../../../thirdParty/SFML/lib/libmbedx509d.pdb"
   "CMakeFiles/mbedx509.dir/pkcs7.c.o"
   "CMakeFiles/mbedx509.dir/pkcs7.c.o.d"
   "CMakeFiles/mbedx509.dir/x509.c.o"

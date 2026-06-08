@@ -4,6 +4,7 @@
 # MY_SOURCES at CMakeLists.txt:11 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/src/*.cpp")
 set(OLD_GLOB
+  "/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/src/Objet.cpp"
   "/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/src/main.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")

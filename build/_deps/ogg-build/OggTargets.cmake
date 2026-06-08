@@ -53,11 +53,11 @@ set_target_properties(Ogg::ogg PROPERTIES
   INTERFACE_INCLUDE_DIRECTORIES "/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/ogg-src/include;/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/ogg-build/include"
 )
 
-# Import target "Ogg::ogg" for configuration ""
-set_property(TARGET Ogg::ogg APPEND PROPERTY IMPORTED_CONFIGURATIONS NOCONFIG)
+# Import target "Ogg::ogg" for configuration "Debug"
+set_property(TARGET Ogg::ogg APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(Ogg::ogg PROPERTIES
-  IMPORTED_LINK_INTERFACE_LANGUAGES_NOCONFIG "C"
-  IMPORTED_LOCATION_NOCONFIG "/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/lib/libogg.a"
+  IMPORTED_LINK_INTERFACE_LANGUAGES_DEBUG "C"
+  IMPORTED_LOCATION_DEBUG "/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/lib/liboggd.a"
   )
 
 # This file does not depend on other imported targets which have

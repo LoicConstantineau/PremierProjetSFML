@@ -6,5 +6,5 @@ C_DEFINES =
 
 C_INCLUDES = -I/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/ogg-src/include -I/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/ogg-build/include
 
-C_FLAGS = -w
+C_FLAGS = -g -w
 

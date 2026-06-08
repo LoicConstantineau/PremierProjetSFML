@@ -6,5 +6,5 @@ CXX_DEFINES = -DLIBSSH2_API="" -DSFML_STATIC
 
 CXX_INCLUDES = -I/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/include -I/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src -isystem /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/libssh2-src/include -isystem /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/mbedtls-src/include
 
-CXX_FLAGS = -std=gnu++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option
+CXX_FLAGS = -g -std=gnu++17 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wno-unknown-warning-option
 

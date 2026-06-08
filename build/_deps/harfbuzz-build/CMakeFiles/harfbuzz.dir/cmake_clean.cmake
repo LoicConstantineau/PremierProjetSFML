@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../thirdParty/SFML/lib/libharfbuzz.a"
-  "../../thirdParty/SFML/lib/libharfbuzz.pdb"
+  "../../thirdParty/SFML/lib/libharfbuzzd.a"
+  "../../thirdParty/SFML/lib/libharfbuzzd.pdb"
   "CMakeFiles/harfbuzz.dir/src/harfbuzz.cc.o"
   "CMakeFiles/harfbuzz.dir/src/harfbuzz.cc.o.d"
 )

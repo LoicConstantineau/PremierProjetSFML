@@ -54,11 +54,11 @@ set_target_properties(libssh2::libssh2_static PROPERTIES
   INTERFACE_INCLUDE_DIRECTORIES "/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/libssh2-src/include"
 )
 
-# Import target "libssh2::libssh2_static" for configuration ""
-set_property(TARGET libssh2::libssh2_static APPEND PROPERTY IMPORTED_CONFIGURATIONS NOCONFIG)
+# Import target "libssh2::libssh2_static" for configuration "Debug"
+set_property(TARGET libssh2::libssh2_static APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(libssh2::libssh2_static PROPERTIES
-  IMPORTED_LINK_INTERFACE_LANGUAGES_NOCONFIG "C"
-  IMPORTED_LOCATION_NOCONFIG "/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/lib/libssh2.a"
+  IMPORTED_LINK_INTERFACE_LANGUAGES_DEBUG "C"
+  IMPORTED_LOCATION_DEBUG "/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/lib/libssh2.a"
   )
 
 # This file does not depend on other imported targets which have

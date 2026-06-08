@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../../thirdParty/SFML/lib/libFLAC.a"
-  "../../../../thirdParty/SFML/lib/libFLAC.pdb"
+  "../../../../thirdParty/SFML/lib/libFLACd.a"
+  "../../../../thirdParty/SFML/lib/libFLACd.pdb"
   "CMakeFiles/FLAC.dir/Unity/unity_0_c.c.o"
   "CMakeFiles/FLAC.dir/Unity/unity_0_c.c.o.d"
   "CMakeFiles/FLAC.dir/fixed.c.o"

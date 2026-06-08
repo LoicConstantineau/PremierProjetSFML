@@ -6,5 +6,5 @@ C_DEFINES = -DSB_CONFIG_UNITY
 
 C_INCLUDES = -I/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/sheenbidi-src/Headers -I/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/sheenbidi-src/Source
 
-C_FLAGS = -w
+C_FLAGS = -g -w
 

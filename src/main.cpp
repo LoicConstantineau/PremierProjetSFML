@@ -1,5 +1,6 @@
 #include <cmath>
 #include <SFML/Graphics.hpp>
+#include "Perso.cpp"
 
 
 int main()
@@ -10,21 +11,11 @@ int main()
 	sf::RenderWindow window(sf::VideoMode({largeurFenetre, hauteurFenetre}), "Cercle");
  	window.setFramerateLimit(60);
 
-	sf::ConvexShape tete(8);
-	tete.setPoint(0, sf::Vector2f(10, 10));
-	tete.setPoint(1, sf::Vector2f(60, 10));
-	tete.setPoint(2, sf::Vector2f(60, 60));
-	tete.setPoint(3, sf::Vector2f(45, 60));
-	tete.setPoint(4, sf::Vector2f(45, 80));
-	tete.setPoint(5, sf::Vector2f(25, 80));
-	tete.setPoint(6, sf::Vector2f(25, 60));
-	tete.setPoint(7, sf::Vector2f(10, 60));
-	tete.setFillColor(sf::Color::White);
-	tete.setPosition({10, 10});
+	sf::Vector2f originPerso = {300, 300};
+	float vitesseDeplacement = 10;
 
-	sf::ConvexShape corps(4);
-	sf::ConvexShape bras(4);
-	sf::ConvexShape jambe(4);
+	jeu::Objet perso = creerPerso();
+
 
 	while (window.isOpen()){
 
@@ -33,8 +24,21 @@ int main()
         	window.close();
       		}
 		}
+		if (sf::Keyboard::isKeyPressed(sf::Keyboard::Key::D)){
+			perso.move({vitesseDeplacement, 0});
+		}
+		if (sf::Keyboard::isKeyPressed(sf::Keyboard::Key::A)){
+			perso.move({-vitesseDeplacement, 0});
+		}
+		if (sf::Keyboard::isKeyPressed(sf::Keyboard::Key::W)){
+			perso.move({0, -vitesseDeplacement});
+		}
+		if (sf::Keyboard::isKeyPressed(sf::Keyboard::Key::S)){
+			perso.move({0, vitesseDeplacement});
+		}
+
 		window.clear();
-		window.draw(tete);
+		window.draw(perso);
 		window.display();
 	}
 	return 0;

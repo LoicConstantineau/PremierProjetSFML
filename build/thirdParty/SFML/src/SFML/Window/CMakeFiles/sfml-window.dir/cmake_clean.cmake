@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../lib/libsfml-window.a"
-  "../../../lib/libsfml-window.pdb"
+  "../../../lib/libsfml-window-s-d.a"
+  "../../../lib/libsfml-window-s-d.pdb"
   "CMakeFiles/sfml-window.dir/Clipboard.cpp.o"
   "CMakeFiles/sfml-window.dir/Clipboard.cpp.o.d"
   "CMakeFiles/sfml-window.dir/Context.cpp.o"
@@ -84,6 +84,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang C CXX)
+foreach(lang CXX OBJC OBJCXX)
   include(CMakeFiles/sfml-window.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()

@@ -313,72 +313,72 @@ thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.s: cma
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/cg_sf_conversion.mm
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.o"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.o -MF CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/cg_sf_conversion.mm
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building OBJCXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.o"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) -x objective-c++ $(OBJCXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.o -MF CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/cg_sf_conversion.mm
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.i"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/cg_sf_conversion.mm > CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJCXX source to CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.i"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/cg_sf_conversion.mm > CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.i
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.s"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/cg_sf_conversion.mm -o CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJCXX source to assembly CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.s"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/cg_sf_conversion.mm -o CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.s
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/CursorImpl.mm
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.o"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.o -MF CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/CursorImpl.mm
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building OBJCXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.o"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) -x objective-c++ $(OBJCXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.o -MF CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/CursorImpl.mm
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.i"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/CursorImpl.mm > CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJCXX source to CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.i"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/CursorImpl.mm > CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.i
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.s"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/CursorImpl.mm -o CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJCXX source to assembly CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.s"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/CursorImpl.mm -o CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.s
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/ClipboardImpl.mm
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.o"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.o -MF CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/ClipboardImpl.mm
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building OBJCXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.o"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) -x objective-c++ $(OBJCXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.o -MF CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/ClipboardImpl.mm
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.i"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/ClipboardImpl.mm > CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJCXX source to CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.i"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/ClipboardImpl.mm > CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.i
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.s"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/ClipboardImpl.mm -o CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJCXX source to assembly CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.s"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/ClipboardImpl.mm -o CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.s
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/InputImpl.mm
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.o"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.o -MF CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/InputImpl.mm
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building OBJCXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.o"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) -x objective-c++ $(OBJCXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.o -MF CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/InputImpl.mm
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.i"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/InputImpl.mm > CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJCXX source to CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.i"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/InputImpl.mm > CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.i
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.s"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/InputImpl.mm -o CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJCXX source to assembly CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.s"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/InputImpl.mm -o CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.s
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/HIDInputManager.mm
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.o"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.o -MF CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/HIDInputManager.mm
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building OBJCXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.o"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) -x objective-c++ $(OBJCXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.o -MF CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/HIDInputManager.mm
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.i"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/HIDInputManager.mm > CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJCXX source to CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.i"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/HIDInputManager.mm > CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.i
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.s"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/HIDInputManager.mm -o CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJCXX source to assembly CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.s"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/HIDInputManager.mm -o CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.s
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/HIDJoystickManager.cpp.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/HIDJoystickManager.cpp.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/HIDJoystickManager.cpp
@@ -411,16 +411,16 @@ thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/JoystickImpl.cp
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/NSImage+raw.mm
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.o"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.o -MF CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/NSImage+raw.mm
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building OBJCXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.o"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) -x objective-c++ $(OBJCXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.o -MF CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/NSImage+raw.mm
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.i"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/NSImage+raw.mm > CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJCXX source to CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.i"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/NSImage+raw.mm > CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.i
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.s"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/NSImage+raw.mm -o CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJCXX source to assembly CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.s"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/NSImage+raw.mm -o CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.s
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SensorImpl.cpp.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SensorImpl.cpp.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SensorImpl.cpp
@@ -439,156 +439,156 @@ thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SensorImpl.cpp.
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplication.m.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplication.m.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFApplication.m
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplication.m.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplication.m.o"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplication.m.o -MF CMakeFiles/sfml-window.dir/macOS/SFApplication.m.o.d -o CMakeFiles/sfml-window.dir/macOS/SFApplication.m.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFApplication.m
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building OBJC object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplication.m.o"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) -x objective-c $(OBJC_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplication.m.o -MF CMakeFiles/sfml-window.dir/macOS/SFApplication.m.o.d -o CMakeFiles/sfml-window.dir/macOS/SFApplication.m.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFApplication.m
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplication.m.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/sfml-window.dir/macOS/SFApplication.m.i"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFApplication.m > CMakeFiles/sfml-window.dir/macOS/SFApplication.m.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJC source to CMakeFiles/sfml-window.dir/macOS/SFApplication.m.i"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) $(OBJC_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFApplication.m > CMakeFiles/sfml-window.dir/macOS/SFApplication.m.i
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplication.m.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/sfml-window.dir/macOS/SFApplication.m.s"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFApplication.m -o CMakeFiles/sfml-window.dir/macOS/SFApplication.m.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJC source to assembly CMakeFiles/sfml-window.dir/macOS/SFApplication.m.s"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) $(OBJC_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFApplication.m -o CMakeFiles/sfml-window.dir/macOS/SFApplication.m.s
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFApplicationDelegate.m
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.o"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.o -MF CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.o.d -o CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFApplicationDelegate.m
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building OBJC object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.o"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) -x objective-c $(OBJC_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.o -MF CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.o.d -o CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFApplicationDelegate.m
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.i"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFApplicationDelegate.m > CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJC source to CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.i"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) $(OBJC_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFApplicationDelegate.m > CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.i
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.s"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFApplicationDelegate.m -o CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJC source to assembly CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.s"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) $(OBJC_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFApplicationDelegate.m -o CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.s
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFContext.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFContext.mm.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFContext.mm
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFContext.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFContext.mm.o"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFContext.mm.o -MF CMakeFiles/sfml-window.dir/macOS/SFContext.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/SFContext.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFContext.mm
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building OBJCXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFContext.mm.o"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) -x objective-c++ $(OBJCXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFContext.mm.o -MF CMakeFiles/sfml-window.dir/macOS/SFContext.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/SFContext.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFContext.mm
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFContext.mm.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml-window.dir/macOS/SFContext.mm.i"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFContext.mm > CMakeFiles/sfml-window.dir/macOS/SFContext.mm.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJCXX source to CMakeFiles/sfml-window.dir/macOS/SFContext.mm.i"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFContext.mm > CMakeFiles/sfml-window.dir/macOS/SFContext.mm.i
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFContext.mm.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml-window.dir/macOS/SFContext.mm.s"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFContext.mm -o CMakeFiles/sfml-window.dir/macOS/SFContext.mm.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJCXX source to assembly CMakeFiles/sfml-window.dir/macOS/SFContext.mm.s"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFContext.mm -o CMakeFiles/sfml-window.dir/macOS/SFContext.mm.s
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFKeyboardModifiersHelper.mm
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.o"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.o -MF CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFKeyboardModifiersHelper.mm
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building OBJCXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.o"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) -x objective-c++ $(OBJCXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.o -MF CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFKeyboardModifiersHelper.mm
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.i"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFKeyboardModifiersHelper.mm > CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJCXX source to CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.i"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFKeyboardModifiersHelper.mm > CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.i
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.s"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFKeyboardModifiersHelper.mm -o CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJCXX source to assembly CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.s"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFKeyboardModifiersHelper.mm -o CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.s
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView.mm
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.o"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.o -MF CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView.mm
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building OBJCXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.o"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) -x objective-c++ $(OBJCXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.o -MF CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView.mm
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.i"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView.mm > CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJCXX source to CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.i"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView.mm > CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.i
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.s"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView.mm -o CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJCXX source to assembly CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.s"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView.mm -o CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.s
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView+keyboard.mm
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.o"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.o -MF CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView+keyboard.mm
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building OBJCXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.o"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) -x objective-c++ $(OBJCXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.o -MF CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView+keyboard.mm
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.i"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView+keyboard.mm > CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJCXX source to CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.i"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView+keyboard.mm > CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.i
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.s"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView+keyboard.mm -o CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJCXX source to assembly CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.s"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView+keyboard.mm -o CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.s
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView+mouse.mm
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.o"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.o -MF CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView+mouse.mm
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building OBJCXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.o"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) -x objective-c++ $(OBJCXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.o -MF CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView+mouse.mm
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.i"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView+mouse.mm > CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJCXX source to CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.i"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView+mouse.mm > CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.i
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.s"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView+mouse.mm -o CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJCXX source to assembly CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.s"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFOpenGLView+mouse.mm -o CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.s
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFSilentResponder.m
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.o"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.o -MF CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.o.d -o CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFSilentResponder.m
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building OBJC object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.o"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) -x objective-c $(OBJC_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.o -MF CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.o.d -o CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFSilentResponder.m
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.i"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFSilentResponder.m > CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJC source to CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.i"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) $(OBJC_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFSilentResponder.m > CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.i
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.s"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFSilentResponder.m -o CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJC source to assembly CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.s"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) $(OBJC_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFSilentResponder.m -o CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.s
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindow.m.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindow.m.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFWindow.m
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindow.m.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindow.m.o"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindow.m.o -MF CMakeFiles/sfml-window.dir/macOS/SFWindow.m.o.d -o CMakeFiles/sfml-window.dir/macOS/SFWindow.m.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFWindow.m
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building OBJC object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindow.m.o"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) -x objective-c $(OBJC_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindow.m.o -MF CMakeFiles/sfml-window.dir/macOS/SFWindow.m.o.d -o CMakeFiles/sfml-window.dir/macOS/SFWindow.m.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFWindow.m
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindow.m.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/sfml-window.dir/macOS/SFWindow.m.i"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFWindow.m > CMakeFiles/sfml-window.dir/macOS/SFWindow.m.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJC source to CMakeFiles/sfml-window.dir/macOS/SFWindow.m.i"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) $(OBJC_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFWindow.m > CMakeFiles/sfml-window.dir/macOS/SFWindow.m.i
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindow.m.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/sfml-window.dir/macOS/SFWindow.m.s"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFWindow.m -o CMakeFiles/sfml-window.dir/macOS/SFWindow.m.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJC source to assembly CMakeFiles/sfml-window.dir/macOS/SFWindow.m.s"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang $(OBJC_DEFINES) $(OBJC_INCLUDES) $(OBJC_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFWindow.m -o CMakeFiles/sfml-window.dir/macOS/SFWindow.m.s
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFWindowController.mm
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.o"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.o -MF CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFWindowController.mm
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building OBJCXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.o"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) -x objective-c++ $(OBJCXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.o -MF CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFWindowController.mm
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.i"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFWindowController.mm > CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJCXX source to CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.i"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFWindowController.mm > CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.i
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.s"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFWindowController.mm -o CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJCXX source to assembly CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.s"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFWindowController.mm -o CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.s
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFViewController.mm
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.o"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.o -MF CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFViewController.mm
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building OBJCXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.o"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) -x objective-c++ $(OBJCXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.o -MF CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFViewController.mm
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.i"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFViewController.mm > CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJCXX source to CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.i"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFViewController.mm > CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.i
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.s"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFViewController.mm -o CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJCXX source to assembly CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.s"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/SFViewController.mm -o CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.s
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/VideoModeImpl.cpp.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/VideoModeImpl.cpp.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/VideoModeImpl.cpp
@@ -607,30 +607,30 @@ thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/VideoModeImpl.c
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/WindowImplCocoa.mm
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.o"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.o -MF CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/WindowImplCocoa.mm
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building OBJCXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.o"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) -x objective-c++ $(OBJCXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.o -MF CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/WindowImplCocoa.mm
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.i"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/WindowImplCocoa.mm > CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJCXX source to CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.i"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/WindowImplCocoa.mm > CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.i
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.s"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/WindowImplCocoa.mm -o CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJCXX source to assembly CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.s"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/WindowImplCocoa.mm -o CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.s
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/flags.make
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.o: /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/AutoreleasePoolWrapper.mm
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.o: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.o"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.o -MF CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/AutoreleasePoolWrapper.mm
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building OBJCXX object thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.o"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) -x objective-c++ $(OBJCXX_FLAGS) -MD -MT thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.o -MF CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.o.d -o CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.o -c /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/AutoreleasePoolWrapper.mm
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.i"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/AutoreleasePoolWrapper.mm > CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.i
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing OBJCXX source to CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.i"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -E /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/AutoreleasePoolWrapper.mm > CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.i
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.s"
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/AutoreleasePoolWrapper.mm -o CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling OBJCXX source to assembly CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.s"
+	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && /usr/bin/clang++ $(OBJCXX_DEFINES) $(OBJCXX_INCLUDES) $(OBJCXX_FLAGS) -S /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/src/SFML/Window/macOS/AutoreleasePoolWrapper.mm -o CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.s
 
 # Object files for target sfml-window
 sfml__window_OBJECTS = \
@@ -678,54 +678,54 @@ sfml__window_OBJECTS = \
 # External object files for target sfml-window
 sfml__window_EXTERNAL_OBJECTS =
 
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/HIDJoystickManager.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/JoystickImpl.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SensorImpl.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplication.m.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFContext.mm.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindow.m.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/VideoModeImpl.cpp.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.o
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make
-thirdParty/SFML/lib/libsfml-window.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Linking CXX static library ../../../lib/libsfml-window.a"
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/HIDJoystickManager.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/JoystickImpl.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SensorImpl.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplication.m.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFContext.mm.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindow.m.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/VideoModeImpl.cpp.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.o
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make
+thirdParty/SFML/lib/libsfml-window-s-d.a: thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Linking CXX static library ../../../lib/libsfml-window-s-d.a"
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && $(CMAKE_COMMAND) -P CMakeFiles/sfml-window.dir/cmake_clean_target.cmake
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Window && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/sfml-window.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build: thirdParty/SFML/lib/libsfml-window.a
+thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build: thirdParty/SFML/lib/libsfml-window-s-d.a
 .PHONY : thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build
 
 thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/clean:

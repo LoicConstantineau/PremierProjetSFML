@@ -895,4 +895,6 @@ CMakeFiles/main1.dir/src/main.cpp.o: \
   /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/include/SFML/System/MemoryInputStream.hpp \
   /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/include/SFML/System/Sleep.hpp \
   /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/include/SFML/System/TimeoutWithPredicate.hpp \
-  /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/include/SFML/System/Version.hpp
+  /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/thirdParty/SFML/include/SFML/System/Version.hpp \
+  /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/include/Perso.cpp \
+  /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/include/Objet.h

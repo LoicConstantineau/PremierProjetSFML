@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../thirdParty/SFML/lib/libmbedcrypto.a"
-  "../../../thirdParty/SFML/lib/libmbedcrypto.pdb"
+  "../../../thirdParty/SFML/lib/libmbedcryptod.a"
+  "../../../thirdParty/SFML/lib/libmbedcryptod.pdb"
   "CMakeFiles/mbedcrypto.dir/aes.c.o"
   "CMakeFiles/mbedcrypto.dir/aes.c.o.d"
   "CMakeFiles/mbedcrypto.dir/aesce.c.o"

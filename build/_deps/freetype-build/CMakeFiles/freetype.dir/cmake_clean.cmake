@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../thirdParty/SFML/lib/libfreetype.a"
-  "../../thirdParty/SFML/lib/libfreetype.pdb"
+  "../../thirdParty/SFML/lib/libfreetyped.a"
+  "../../thirdParty/SFML/lib/libfreetyped.pdb"
   "CMakeFiles/freetype.dir/Unity/unity_0_c.c.o"
   "CMakeFiles/freetype.dir/Unity/unity_0_c.c.o.d"
   "CMakeFiles/freetype.dir/src/pfr/pfr.c.o"

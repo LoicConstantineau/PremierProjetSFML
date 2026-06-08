@@ -55,11 +55,11 @@ set_target_properties(FLAC::FLAC PROPERTIES
   INTERFACE_LINK_LIBRARIES "\$<\$<BOOL:1>:m>;Ogg::ogg;Threads::Threads"
 )
 
-# Import target "FLAC::FLAC" for configuration ""
-set_property(TARGET FLAC::FLAC APPEND PROPERTY IMPORTED_CONFIGURATIONS NOCONFIG)
+# Import target "FLAC::FLAC" for configuration "Debug"
+set_property(TARGET FLAC::FLAC APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(FLAC::FLAC PROPERTIES
-  IMPORTED_LINK_INTERFACE_LANGUAGES_NOCONFIG "C"
-  IMPORTED_LOCATION_NOCONFIG "/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/lib/libFLAC.a"
+  IMPORTED_LINK_INTERFACE_LANGUAGES_DEBUG "C"
+  IMPORTED_LOCATION_DEBUG "/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/lib/libFLACd.a"
   )
 
 # Make sure the targets which have been exported in some other

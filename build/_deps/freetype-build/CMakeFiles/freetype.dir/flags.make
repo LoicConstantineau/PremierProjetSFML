@@ -6,5 +6,5 @@ C_DEFINES = -DFT2_BUILD_LIBRARY
 
 C_INCLUDES = -I/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/freetype-build/include/freetype/config -isystem /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/freetype-build/include -isystem /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/freetype-src/include -isystem /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/harfbuzz-src/src
 
-C_FLAGS = -fvisibility=hidden -w
+C_FLAGS = -g -fvisibility=hidden -w
 

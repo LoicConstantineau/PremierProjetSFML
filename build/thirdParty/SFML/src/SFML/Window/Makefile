@@ -612,22 +612,6 @@ macOS/AutoreleasePoolWrapper.mm.o:
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.o
 .PHONY : macOS/AutoreleasePoolWrapper.mm.o
 
-macOS/AutoreleasePoolWrapper.i: macOS/AutoreleasePoolWrapper.mm.i
-.PHONY : macOS/AutoreleasePoolWrapper.i
-
-# target to preprocess a source file
-macOS/AutoreleasePoolWrapper.mm.i:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.i
-.PHONY : macOS/AutoreleasePoolWrapper.mm.i
-
-macOS/AutoreleasePoolWrapper.s: macOS/AutoreleasePoolWrapper.mm.s
-.PHONY : macOS/AutoreleasePoolWrapper.s
-
-# target to generate assembly for a file
-macOS/AutoreleasePoolWrapper.mm.s:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/AutoreleasePoolWrapper.mm.s
-.PHONY : macOS/AutoreleasePoolWrapper.mm.s
-
 macOS/ClipboardImpl.o: macOS/ClipboardImpl.mm.o
 .PHONY : macOS/ClipboardImpl.o
 
@@ -635,22 +619,6 @@ macOS/ClipboardImpl.o: macOS/ClipboardImpl.mm.o
 macOS/ClipboardImpl.mm.o:
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.o
 .PHONY : macOS/ClipboardImpl.mm.o
-
-macOS/ClipboardImpl.i: macOS/ClipboardImpl.mm.i
-.PHONY : macOS/ClipboardImpl.i
-
-# target to preprocess a source file
-macOS/ClipboardImpl.mm.i:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.i
-.PHONY : macOS/ClipboardImpl.mm.i
-
-macOS/ClipboardImpl.s: macOS/ClipboardImpl.mm.s
-.PHONY : macOS/ClipboardImpl.s
-
-# target to generate assembly for a file
-macOS/ClipboardImpl.mm.s:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/ClipboardImpl.mm.s
-.PHONY : macOS/ClipboardImpl.mm.s
 
 macOS/CursorImpl.o: macOS/CursorImpl.mm.o
 .PHONY : macOS/CursorImpl.o
@@ -660,22 +628,6 @@ macOS/CursorImpl.mm.o:
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.o
 .PHONY : macOS/CursorImpl.mm.o
 
-macOS/CursorImpl.i: macOS/CursorImpl.mm.i
-.PHONY : macOS/CursorImpl.i
-
-# target to preprocess a source file
-macOS/CursorImpl.mm.i:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.i
-.PHONY : macOS/CursorImpl.mm.i
-
-macOS/CursorImpl.s: macOS/CursorImpl.mm.s
-.PHONY : macOS/CursorImpl.s
-
-# target to generate assembly for a file
-macOS/CursorImpl.mm.s:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/CursorImpl.mm.s
-.PHONY : macOS/CursorImpl.mm.s
-
 macOS/HIDInputManager.o: macOS/HIDInputManager.mm.o
 .PHONY : macOS/HIDInputManager.o
 
@@ -683,22 +635,6 @@ macOS/HIDInputManager.o: macOS/HIDInputManager.mm.o
 macOS/HIDInputManager.mm.o:
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.o
 .PHONY : macOS/HIDInputManager.mm.o
-
-macOS/HIDInputManager.i: macOS/HIDInputManager.mm.i
-.PHONY : macOS/HIDInputManager.i
-
-# target to preprocess a source file
-macOS/HIDInputManager.mm.i:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.i
-.PHONY : macOS/HIDInputManager.mm.i
-
-macOS/HIDInputManager.s: macOS/HIDInputManager.mm.s
-.PHONY : macOS/HIDInputManager.s
-
-# target to generate assembly for a file
-macOS/HIDInputManager.mm.s:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/HIDInputManager.mm.s
-.PHONY : macOS/HIDInputManager.mm.s
 
 macOS/HIDJoystickManager.o: macOS/HIDJoystickManager.cpp.o
 .PHONY : macOS/HIDJoystickManager.o
@@ -732,22 +668,6 @@ macOS/InputImpl.mm.o:
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.o
 .PHONY : macOS/InputImpl.mm.o
 
-macOS/InputImpl.i: macOS/InputImpl.mm.i
-.PHONY : macOS/InputImpl.i
-
-# target to preprocess a source file
-macOS/InputImpl.mm.i:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.i
-.PHONY : macOS/InputImpl.mm.i
-
-macOS/InputImpl.s: macOS/InputImpl.mm.s
-.PHONY : macOS/InputImpl.s
-
-# target to generate assembly for a file
-macOS/InputImpl.mm.s:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/InputImpl.mm.s
-.PHONY : macOS/InputImpl.mm.s
-
 macOS/JoystickImpl.o: macOS/JoystickImpl.cpp.o
 .PHONY : macOS/JoystickImpl.o
 
@@ -780,22 +700,6 @@ macOS/NSImage+raw.mm.o:
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.o
 .PHONY : macOS/NSImage+raw.mm.o
 
-macOS/NSImage+raw.i: macOS/NSImage+raw.mm.i
-.PHONY : macOS/NSImage+raw.i
-
-# target to preprocess a source file
-macOS/NSImage+raw.mm.i:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.i
-.PHONY : macOS/NSImage+raw.mm.i
-
-macOS/NSImage+raw.s: macOS/NSImage+raw.mm.s
-.PHONY : macOS/NSImage+raw.s
-
-# target to generate assembly for a file
-macOS/NSImage+raw.mm.s:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/NSImage+raw.mm.s
-.PHONY : macOS/NSImage+raw.mm.s
-
 macOS/SFApplication.o: macOS/SFApplication.m.o
 .PHONY : macOS/SFApplication.o
 
@@ -803,22 +707,6 @@ macOS/SFApplication.o: macOS/SFApplication.m.o
 macOS/SFApplication.m.o:
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplication.m.o
 .PHONY : macOS/SFApplication.m.o
-
-macOS/SFApplication.i: macOS/SFApplication.m.i
-.PHONY : macOS/SFApplication.i
-
-# target to preprocess a source file
-macOS/SFApplication.m.i:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplication.m.i
-.PHONY : macOS/SFApplication.m.i
-
-macOS/SFApplication.s: macOS/SFApplication.m.s
-.PHONY : macOS/SFApplication.s
-
-# target to generate assembly for a file
-macOS/SFApplication.m.s:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplication.m.s
-.PHONY : macOS/SFApplication.m.s
 
 macOS/SFApplicationDelegate.o: macOS/SFApplicationDelegate.m.o
 .PHONY : macOS/SFApplicationDelegate.o
@@ -828,22 +716,6 @@ macOS/SFApplicationDelegate.m.o:
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.o
 .PHONY : macOS/SFApplicationDelegate.m.o
 
-macOS/SFApplicationDelegate.i: macOS/SFApplicationDelegate.m.i
-.PHONY : macOS/SFApplicationDelegate.i
-
-# target to preprocess a source file
-macOS/SFApplicationDelegate.m.i:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.i
-.PHONY : macOS/SFApplicationDelegate.m.i
-
-macOS/SFApplicationDelegate.s: macOS/SFApplicationDelegate.m.s
-.PHONY : macOS/SFApplicationDelegate.s
-
-# target to generate assembly for a file
-macOS/SFApplicationDelegate.m.s:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFApplicationDelegate.m.s
-.PHONY : macOS/SFApplicationDelegate.m.s
-
 macOS/SFContext.o: macOS/SFContext.mm.o
 .PHONY : macOS/SFContext.o
 
@@ -851,22 +723,6 @@ macOS/SFContext.o: macOS/SFContext.mm.o
 macOS/SFContext.mm.o:
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFContext.mm.o
 .PHONY : macOS/SFContext.mm.o
-
-macOS/SFContext.i: macOS/SFContext.mm.i
-.PHONY : macOS/SFContext.i
-
-# target to preprocess a source file
-macOS/SFContext.mm.i:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFContext.mm.i
-.PHONY : macOS/SFContext.mm.i
-
-macOS/SFContext.s: macOS/SFContext.mm.s
-.PHONY : macOS/SFContext.s
-
-# target to generate assembly for a file
-macOS/SFContext.mm.s:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFContext.mm.s
-.PHONY : macOS/SFContext.mm.s
 
 macOS/SFKeyboardModifiersHelper.o: macOS/SFKeyboardModifiersHelper.mm.o
 .PHONY : macOS/SFKeyboardModifiersHelper.o
@@ -876,22 +732,6 @@ macOS/SFKeyboardModifiersHelper.mm.o:
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.o
 .PHONY : macOS/SFKeyboardModifiersHelper.mm.o
 
-macOS/SFKeyboardModifiersHelper.i: macOS/SFKeyboardModifiersHelper.mm.i
-.PHONY : macOS/SFKeyboardModifiersHelper.i
-
-# target to preprocess a source file
-macOS/SFKeyboardModifiersHelper.mm.i:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.i
-.PHONY : macOS/SFKeyboardModifiersHelper.mm.i
-
-macOS/SFKeyboardModifiersHelper.s: macOS/SFKeyboardModifiersHelper.mm.s
-.PHONY : macOS/SFKeyboardModifiersHelper.s
-
-# target to generate assembly for a file
-macOS/SFKeyboardModifiersHelper.mm.s:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFKeyboardModifiersHelper.mm.s
-.PHONY : macOS/SFKeyboardModifiersHelper.mm.s
-
 macOS/SFOpenGLView+keyboard.o: macOS/SFOpenGLView+keyboard.mm.o
 .PHONY : macOS/SFOpenGLView+keyboard.o
 
@@ -899,22 +739,6 @@ macOS/SFOpenGLView+keyboard.o: macOS/SFOpenGLView+keyboard.mm.o
 macOS/SFOpenGLView+keyboard.mm.o:
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.o
 .PHONY : macOS/SFOpenGLView+keyboard.mm.o
-
-macOS/SFOpenGLView+keyboard.i: macOS/SFOpenGLView+keyboard.mm.i
-.PHONY : macOS/SFOpenGLView+keyboard.i
-
-# target to preprocess a source file
-macOS/SFOpenGLView+keyboard.mm.i:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.i
-.PHONY : macOS/SFOpenGLView+keyboard.mm.i
-
-macOS/SFOpenGLView+keyboard.s: macOS/SFOpenGLView+keyboard.mm.s
-.PHONY : macOS/SFOpenGLView+keyboard.s
-
-# target to generate assembly for a file
-macOS/SFOpenGLView+keyboard.mm.s:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+keyboard.mm.s
-.PHONY : macOS/SFOpenGLView+keyboard.mm.s
 
 macOS/SFOpenGLView+mouse.o: macOS/SFOpenGLView+mouse.mm.o
 .PHONY : macOS/SFOpenGLView+mouse.o
@@ -924,22 +748,6 @@ macOS/SFOpenGLView+mouse.mm.o:
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.o
 .PHONY : macOS/SFOpenGLView+mouse.mm.o
 
-macOS/SFOpenGLView+mouse.i: macOS/SFOpenGLView+mouse.mm.i
-.PHONY : macOS/SFOpenGLView+mouse.i
-
-# target to preprocess a source file
-macOS/SFOpenGLView+mouse.mm.i:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.i
-.PHONY : macOS/SFOpenGLView+mouse.mm.i
-
-macOS/SFOpenGLView+mouse.s: macOS/SFOpenGLView+mouse.mm.s
-.PHONY : macOS/SFOpenGLView+mouse.s
-
-# target to generate assembly for a file
-macOS/SFOpenGLView+mouse.mm.s:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView+mouse.mm.s
-.PHONY : macOS/SFOpenGLView+mouse.mm.s
-
 macOS/SFOpenGLView.o: macOS/SFOpenGLView.mm.o
 .PHONY : macOS/SFOpenGLView.o
 
@@ -947,22 +755,6 @@ macOS/SFOpenGLView.o: macOS/SFOpenGLView.mm.o
 macOS/SFOpenGLView.mm.o:
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.o
 .PHONY : macOS/SFOpenGLView.mm.o
-
-macOS/SFOpenGLView.i: macOS/SFOpenGLView.mm.i
-.PHONY : macOS/SFOpenGLView.i
-
-# target to preprocess a source file
-macOS/SFOpenGLView.mm.i:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.i
-.PHONY : macOS/SFOpenGLView.mm.i
-
-macOS/SFOpenGLView.s: macOS/SFOpenGLView.mm.s
-.PHONY : macOS/SFOpenGLView.s
-
-# target to generate assembly for a file
-macOS/SFOpenGLView.mm.s:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFOpenGLView.mm.s
-.PHONY : macOS/SFOpenGLView.mm.s
 
 macOS/SFSilentResponder.o: macOS/SFSilentResponder.m.o
 .PHONY : macOS/SFSilentResponder.o
@@ -972,22 +764,6 @@ macOS/SFSilentResponder.m.o:
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.o
 .PHONY : macOS/SFSilentResponder.m.o
 
-macOS/SFSilentResponder.i: macOS/SFSilentResponder.m.i
-.PHONY : macOS/SFSilentResponder.i
-
-# target to preprocess a source file
-macOS/SFSilentResponder.m.i:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.i
-.PHONY : macOS/SFSilentResponder.m.i
-
-macOS/SFSilentResponder.s: macOS/SFSilentResponder.m.s
-.PHONY : macOS/SFSilentResponder.s
-
-# target to generate assembly for a file
-macOS/SFSilentResponder.m.s:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFSilentResponder.m.s
-.PHONY : macOS/SFSilentResponder.m.s
-
 macOS/SFViewController.o: macOS/SFViewController.mm.o
 .PHONY : macOS/SFViewController.o
 
@@ -995,22 +771,6 @@ macOS/SFViewController.o: macOS/SFViewController.mm.o
 macOS/SFViewController.mm.o:
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.o
 .PHONY : macOS/SFViewController.mm.o
-
-macOS/SFViewController.i: macOS/SFViewController.mm.i
-.PHONY : macOS/SFViewController.i
-
-# target to preprocess a source file
-macOS/SFViewController.mm.i:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.i
-.PHONY : macOS/SFViewController.mm.i
-
-macOS/SFViewController.s: macOS/SFViewController.mm.s
-.PHONY : macOS/SFViewController.s
-
-# target to generate assembly for a file
-macOS/SFViewController.mm.s:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFViewController.mm.s
-.PHONY : macOS/SFViewController.mm.s
 
 macOS/SFWindow.o: macOS/SFWindow.m.o
 .PHONY : macOS/SFWindow.o
@@ -1020,22 +780,6 @@ macOS/SFWindow.m.o:
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindow.m.o
 .PHONY : macOS/SFWindow.m.o
 
-macOS/SFWindow.i: macOS/SFWindow.m.i
-.PHONY : macOS/SFWindow.i
-
-# target to preprocess a source file
-macOS/SFWindow.m.i:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindow.m.i
-.PHONY : macOS/SFWindow.m.i
-
-macOS/SFWindow.s: macOS/SFWindow.m.s
-.PHONY : macOS/SFWindow.s
-
-# target to generate assembly for a file
-macOS/SFWindow.m.s:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindow.m.s
-.PHONY : macOS/SFWindow.m.s
-
 macOS/SFWindowController.o: macOS/SFWindowController.mm.o
 .PHONY : macOS/SFWindowController.o
 
@@ -1043,22 +787,6 @@ macOS/SFWindowController.o: macOS/SFWindowController.mm.o
 macOS/SFWindowController.mm.o:
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.o
 .PHONY : macOS/SFWindowController.mm.o
-
-macOS/SFWindowController.i: macOS/SFWindowController.mm.i
-.PHONY : macOS/SFWindowController.i
-
-# target to preprocess a source file
-macOS/SFWindowController.mm.i:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.i
-.PHONY : macOS/SFWindowController.mm.i
-
-macOS/SFWindowController.s: macOS/SFWindowController.mm.s
-.PHONY : macOS/SFWindowController.s
-
-# target to generate assembly for a file
-macOS/SFWindowController.mm.s:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/SFWindowController.mm.s
-.PHONY : macOS/SFWindowController.mm.s
 
 macOS/SensorImpl.o: macOS/SensorImpl.cpp.o
 .PHONY : macOS/SensorImpl.o
@@ -1116,22 +844,6 @@ macOS/WindowImplCocoa.mm.o:
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.o
 .PHONY : macOS/WindowImplCocoa.mm.o
 
-macOS/WindowImplCocoa.i: macOS/WindowImplCocoa.mm.i
-.PHONY : macOS/WindowImplCocoa.i
-
-# target to preprocess a source file
-macOS/WindowImplCocoa.mm.i:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.i
-.PHONY : macOS/WindowImplCocoa.mm.i
-
-macOS/WindowImplCocoa.s: macOS/WindowImplCocoa.mm.s
-.PHONY : macOS/WindowImplCocoa.s
-
-# target to generate assembly for a file
-macOS/WindowImplCocoa.mm.s:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/WindowImplCocoa.mm.s
-.PHONY : macOS/WindowImplCocoa.mm.s
-
 macOS/cg_sf_conversion.o: macOS/cg_sf_conversion.mm.o
 .PHONY : macOS/cg_sf_conversion.o
 
@@ -1139,22 +851,6 @@ macOS/cg_sf_conversion.o: macOS/cg_sf_conversion.mm.o
 macOS/cg_sf_conversion.mm.o:
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.o
 .PHONY : macOS/cg_sf_conversion.mm.o
-
-macOS/cg_sf_conversion.i: macOS/cg_sf_conversion.mm.i
-.PHONY : macOS/cg_sf_conversion.i
-
-# target to preprocess a source file
-macOS/cg_sf_conversion.mm.i:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.i
-.PHONY : macOS/cg_sf_conversion.mm.i
-
-macOS/cg_sf_conversion.s: macOS/cg_sf_conversion.mm.s
-.PHONY : macOS/cg_sf_conversion.s
-
-# target to generate assembly for a file
-macOS/cg_sf_conversion.mm.s:
-	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build && $(MAKE) $(MAKESILENT) -f thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make thirdParty/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/macOS/cg_sf_conversion.mm.s
-.PHONY : macOS/cg_sf_conversion.mm.s
 
 # Help Target
 help:
@@ -1223,62 +919,28 @@ help:
 	@echo "... WindowImpl.i"
 	@echo "... WindowImpl.s"
 	@echo "... macOS/AutoreleasePoolWrapper.o"
-	@echo "... macOS/AutoreleasePoolWrapper.i"
-	@echo "... macOS/AutoreleasePoolWrapper.s"
 	@echo "... macOS/ClipboardImpl.o"
-	@echo "... macOS/ClipboardImpl.i"
-	@echo "... macOS/ClipboardImpl.s"
 	@echo "... macOS/CursorImpl.o"
-	@echo "... macOS/CursorImpl.i"
-	@echo "... macOS/CursorImpl.s"
 	@echo "... macOS/HIDInputManager.o"
-	@echo "... macOS/HIDInputManager.i"
-	@echo "... macOS/HIDInputManager.s"
 	@echo "... macOS/HIDJoystickManager.o"
 	@echo "... macOS/HIDJoystickManager.i"
 	@echo "... macOS/HIDJoystickManager.s"
 	@echo "... macOS/InputImpl.o"
-	@echo "... macOS/InputImpl.i"
-	@echo "... macOS/InputImpl.s"
 	@echo "... macOS/JoystickImpl.o"
 	@echo "... macOS/JoystickImpl.i"
 	@echo "... macOS/JoystickImpl.s"
 	@echo "... macOS/NSImage+raw.o"
-	@echo "... macOS/NSImage+raw.i"
-	@echo "... macOS/NSImage+raw.s"
 	@echo "... macOS/SFApplication.o"
-	@echo "... macOS/SFApplication.i"
-	@echo "... macOS/SFApplication.s"
 	@echo "... macOS/SFApplicationDelegate.o"
-	@echo "... macOS/SFApplicationDelegate.i"
-	@echo "... macOS/SFApplicationDelegate.s"
 	@echo "... macOS/SFContext.o"
-	@echo "... macOS/SFContext.i"
-	@echo "... macOS/SFContext.s"
 	@echo "... macOS/SFKeyboardModifiersHelper.o"
-	@echo "... macOS/SFKeyboardModifiersHelper.i"
-	@echo "... macOS/SFKeyboardModifiersHelper.s"
 	@echo "... macOS/SFOpenGLView+keyboard.o"
-	@echo "... macOS/SFOpenGLView+keyboard.i"
-	@echo "... macOS/SFOpenGLView+keyboard.s"
 	@echo "... macOS/SFOpenGLView+mouse.o"
-	@echo "... macOS/SFOpenGLView+mouse.i"
-	@echo "... macOS/SFOpenGLView+mouse.s"
 	@echo "... macOS/SFOpenGLView.o"
-	@echo "... macOS/SFOpenGLView.i"
-	@echo "... macOS/SFOpenGLView.s"
 	@echo "... macOS/SFSilentResponder.o"
-	@echo "... macOS/SFSilentResponder.i"
-	@echo "... macOS/SFSilentResponder.s"
 	@echo "... macOS/SFViewController.o"
-	@echo "... macOS/SFViewController.i"
-	@echo "... macOS/SFViewController.s"
 	@echo "... macOS/SFWindow.o"
-	@echo "... macOS/SFWindow.i"
-	@echo "... macOS/SFWindow.s"
 	@echo "... macOS/SFWindowController.o"
-	@echo "... macOS/SFWindowController.i"
-	@echo "... macOS/SFWindowController.s"
 	@echo "... macOS/SensorImpl.o"
 	@echo "... macOS/SensorImpl.i"
 	@echo "... macOS/SensorImpl.s"
@@ -1286,11 +948,7 @@ help:
 	@echo "... macOS/VideoModeImpl.i"
 	@echo "... macOS/VideoModeImpl.s"
 	@echo "... macOS/WindowImplCocoa.o"
-	@echo "... macOS/WindowImplCocoa.i"
-	@echo "... macOS/WindowImplCocoa.s"
 	@echo "... macOS/cg_sf_conversion.o"
-	@echo "... macOS/cg_sf_conversion.i"
-	@echo "... macOS/cg_sf_conversion.s"
 .PHONY : help
 
 

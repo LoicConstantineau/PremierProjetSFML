@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../thirdParty/SFML/lib/libogg.a"
-  "../../thirdParty/SFML/lib/libogg.pdb"
+  "../../thirdParty/SFML/lib/liboggd.a"
+  "../../thirdParty/SFML/lib/liboggd.pdb"
   "CMakeFiles/ogg.dir/Unity/unity_0_c.c.o"
   "CMakeFiles/ogg.dir/Unity/unity_0_c.c.o.d"
 )

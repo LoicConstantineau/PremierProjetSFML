@@ -6,5 +6,5 @@ C_DEFINES =
 
 C_INCLUDES = -I/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/mbedtls-src/library -I/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/mbedtls-build/library -isystem /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/mbedtls-src/include
 
-C_FLAGS =  -Wall -Wextra -Wwrite-strings -Wmissing-prototypes -Wpointer-arith -Wimplicit-fallthrough -Wshadow -Wvla -Wformat=2 -Wno-format-nonliteral -Wmissing-declarations -Wdocumentation -Wno-documentation-deprecated-sync -Wunreachable-code -std=c99
+C_FLAGS =  -Wall -Wextra -Wwrite-strings -Wmissing-prototypes -Wpointer-arith -Wimplicit-fallthrough -Wshadow -Wvla -Wformat=2 -Wno-format-nonliteral -Wmissing-declarations -Wdocumentation -Wno-documentation-deprecated-sync -Wunreachable-code -O0 -g3 -std=c99
 

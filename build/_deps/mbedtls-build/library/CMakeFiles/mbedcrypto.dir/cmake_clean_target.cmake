@@ -1,3 +1,3 @@
 file(REMOVE_RECURSE
-  "../../../thirdParty/SFML/lib/libmbedcrypto.a"
+  "../../../thirdParty/SFML/lib/libmbedcryptod.a"
 )

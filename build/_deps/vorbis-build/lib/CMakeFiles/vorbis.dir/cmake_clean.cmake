@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "../../../thirdParty/SFML/lib/libvorbis.a"
-  "../../../thirdParty/SFML/lib/libvorbis.pdb"
+  "../../../thirdParty/SFML/lib/libvorbisd.a"
+  "../../../thirdParty/SFML/lib/libvorbisd.pdb"
   "CMakeFiles/vorbis.dir/Unity/unity_0_c.c.o"
   "CMakeFiles/vorbis.dir/Unity/unity_0_c.c.o.d"
   "CMakeFiles/vorbis.dir/floor1.c.o"

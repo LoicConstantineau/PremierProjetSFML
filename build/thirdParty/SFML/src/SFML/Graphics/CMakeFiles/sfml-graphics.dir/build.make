@@ -484,42 +484,42 @@ sfml__graphics_OBJECTS = \
 sfml__graphics_EXTERNAL_OBJECTS = \
 "/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/_deps/sheenbidi-build/CMakeFiles/SheenBidi.dir/Source/SheenBidi.c.o"
 
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/StencilMode.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.o
-thirdParty/SFML/lib/libsfml-graphics.a: _deps/sheenbidi-build/CMakeFiles/SheenBidi.dir/Source/SheenBidi.c.o
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/build.make
-thirdParty/SFML/lib/libsfml-graphics.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Linking CXX static library ../../../lib/libsfml-graphics.a"
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/StencilMode.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: _deps/sheenbidi-build/CMakeFiles/SheenBidi.dir/Source/SheenBidi.c.o
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/build.make
+thirdParty/SFML/lib/libsfml-graphics-s-d.a: thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Linking CXX static library ../../../lib/libsfml-graphics-s-d.a"
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Graphics && $(CMAKE_COMMAND) -P CMakeFiles/sfml-graphics.dir/cmake_clean_target.cmake
 	cd /Users/loicconstantineau/Desktop/VSCode/C++/PremierProjetSFML/build/thirdParty/SFML/src/SFML/Graphics && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/sfml-graphics.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/build: thirdParty/SFML/lib/libsfml-graphics.a
+thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/build: thirdParty/SFML/lib/libsfml-graphics-s-d.a
 .PHONY : thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/build
 
 thirdParty/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/clean:

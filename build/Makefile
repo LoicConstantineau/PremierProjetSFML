@@ -780,6 +780,30 @@ vorbisfile/fast:
 	$(MAKE) $(MAKESILENT) -f _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/build.make _deps/vorbis-build/lib/CMakeFiles/vorbisfile.dir/build
 .PHONY : vorbisfile/fast
 
+src/Objet.o: src/Objet.cpp.o
+.PHONY : src/Objet.o
+
+# target to build an object file
+src/Objet.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/src/Objet.cpp.o
+.PHONY : src/Objet.cpp.o
+
+src/Objet.i: src/Objet.cpp.i
+.PHONY : src/Objet.i
+
+# target to preprocess a source file
+src/Objet.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/src/Objet.cpp.i
+.PHONY : src/Objet.cpp.i
+
+src/Objet.s: src/Objet.cpp.s
+.PHONY : src/Objet.s
+
+# target to generate assembly for a file
+src/Objet.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main1.dir/build.make CMakeFiles/main1.dir/src/Objet.cpp.s
+.PHONY : src/Objet.cpp.s
+
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
 
@@ -864,6 +888,9 @@ help:
 	@echo "... vorbis"
 	@echo "... vorbisenc"
 	@echo "... vorbisfile"
+	@echo "... src/Objet.o"
+	@echo "... src/Objet.i"
+	@echo "... src/Objet.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

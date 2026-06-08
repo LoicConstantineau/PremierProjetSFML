@@ -1,2 +1,2 @@
-/usr/bin/ar qc ../../thirdParty/SFML/lib/libharfbuzz.a CMakeFiles/harfbuzz.dir/src/harfbuzz.cc.o
-/usr/bin/ranlib ../../thirdParty/SFML/lib/libharfbuzz.a
+/usr/bin/ar qc ../../thirdParty/SFML/lib/libharfbuzzd.a CMakeFiles/harfbuzz.dir/src/harfbuzz.cc.o
+/usr/bin/ranlib ../../thirdParty/SFML/lib/libharfbuzzd.a
