@@ -22,12 +22,14 @@ public:
     float getVitesseY() const;
     void asgVitesseY(float p_vitesse);
 
-    bool coursADroite();
-    bool coursAGauche();
-    void courirDroite();
-    void courirGauche();
-
-    void sauter();
+    std::unordered_map<std::string, sf::Vector2f> getTousLesEtatsX();
+    sf::Vector2f getUnEtatX(std::string p_nom);
+    void ajouterEtatX(std::string p_nom, sf::Vector2f p_valeurs);
+    std::unordered_map<std::string, sf::Vector2f> getTousLesEtatsY();
+    sf::Vector2f getUnEtatY(std::string p_nom);
+    void ajouterEtatY(std::string p_nom, sf::Vector2f p_valeurs);
+    void activerEtatX(std::string p_nom, int p_activer); // nom de l'état et 0/1
+    void activerEtatY(std::string p_nom, int p_activer);
 
 private:
     sf::VertexArray m_triangles;
@@ -39,8 +41,7 @@ private:
     float m_forcesY;
     bool m_parTerre;
     float m_masse;
-    bool m_coursADroite;
-    bool m_coursAGauche;
-    bool m_courrait;
+    std::unordered_map<std::string, sf::Vector2f> m_etatsX; // Nom de l'état et vecteur avec 0/1 et ensuite vitesse
+    std::unordered_map<std::string, sf::Vector2f> m_etatsY;
 }; // Classe Objet
 } //Namespace jeu

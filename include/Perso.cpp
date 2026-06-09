@@ -14,6 +14,9 @@ jeu::Objet creerPerso(){
     perso.ajouterTriangles(tete);
 
     perso.asgVitesseDeplacement(400);
+    perso.ajouterEtatX("coursADroite", {0, perso.getVitesseDeplacement() * 7});
+    perso.ajouterEtatX("coursAGauche", {0, -perso.getVitesseDeplacement() * 7});
+    perso.ajouterEtatY("saute", {0, -20000});
 
     return perso;
 } // creerPerso
